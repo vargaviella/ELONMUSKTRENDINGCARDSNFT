@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x796508d98deFaC20144185566478e37397f2577b",
+  "SCAN_LINK": "https://polygonscan.com/token/0x796508d98defac20144185566478e37397f2577b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Elon Musk Digital Trading Cards",
+  "SYMBOL": "ElonDTCNFT",
+  "MAX_SUPPLY": 4242,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/elon-musk-digital-trading-cards-1",
+  "SHOW_BACKGROUND": false
+}
